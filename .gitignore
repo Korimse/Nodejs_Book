@@ -1,2 +1,5 @@
 /Chapter6/learn-express/node_modules
+/Chapter7/learn-sequelize/node_modules
+/Chapter7/learn-sequelize/migrations
+/Chapter7/learn-sequelize/config
 /node_modules
